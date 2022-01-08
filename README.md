@@ -1,8 +1,6 @@
 ### Hi there 👋 I am Jitesh.
 🔭 I’m currently working on a movie recommending website which will use an api to fetch movie recommendation.<br>
-🌱 I’m currently learning React , NextJS, MongoDB and Data
-
-science.<br>
+🌱 I’m currently learning React , NodeJS, MongoDB and DSA in python.<br>
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=ITSJKS.ITSJKS)
 
 
