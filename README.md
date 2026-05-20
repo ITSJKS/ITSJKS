@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Jitesh.
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=ITSJKS.ITSJKS)
+### Glad to see you here! &nbsp;
 
 
 <br>
